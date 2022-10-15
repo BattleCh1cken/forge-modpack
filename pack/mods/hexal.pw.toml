@@ -1,0 +1,13 @@
+name = "Hexal"
+filename = "hexal-forge-1.18.2-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aBVJ6Q36/versions/TPLAQBbg/hexal-forge-1.18.2-0.1.5.jar"
+hash-format = "sha1"
+hash = "3445b188e3360387aeda839a82798af4c334af82"
+
+[update]
+[update.modrinth]
+mod-id = "aBVJ6Q36"
+version = "TPLAQBbg"

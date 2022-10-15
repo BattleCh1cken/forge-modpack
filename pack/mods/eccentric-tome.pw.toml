@@ -1,0 +1,13 @@
+name = "Eccentric Tome"
+filename = "eccentrictome-1.18.2-1.9.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZtdULK5c/versions/eXCw6onx/eccentrictome-1.18.2-1.9.0-beta.jar"
+hash-format = "sha1"
+hash = "591ec701768df2dbecee4810ca49a0b0464b759a"
+
+[update]
+[update.modrinth]
+mod-id = "ZtdULK5c"
+version = "eXCw6onx"

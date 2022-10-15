@@ -1,0 +1,13 @@
+name = "Timber Frames"
+filename = "Timber_Frames_1.18.2_1.4.1_CTM.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M7N4aD7O/versions/1.4.1/Timber_Frames_1.18.2_1.4.1_CTM.jar"
+hash-format = "sha1"
+hash = "30555de6862ce8d33cda5a2021d583c8cc75d872"
+
+[update]
+[update.modrinth]
+mod-id = "M7N4aD7O"
+version = "GvPgbsan"
