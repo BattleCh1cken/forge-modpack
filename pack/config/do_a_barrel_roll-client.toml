@@ -1,0 +1,30 @@
+
+[general]
+	mod_enabled = true
+
+	[general.controls]
+		switch_roll_and_yaw = false
+		invert_pitch = false
+		momentum_based_mouse = false
+		show_momentum_widget = true
+
+	[general.banking]
+		enable_banking = true
+		#Range: 0.0 ~ 100.0
+		banking_strength = 20.0
+
+	[general.thrust]
+		enable_thrust = false
+		#Range: 0.0 ~ 5.0
+		max_thrust = 1.0
+
+[sensitivity]
+
+	[sensitivity.desktop]
+		#Range: 0.0 ~ 2.0
+		pitch = 1.0
+		#Range: 0.0 ~ 2.0
+		yaw = 0.4
+		#Range: 0.0 ~ 2.0
+		roll = 1.0
+

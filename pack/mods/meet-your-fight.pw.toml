@@ -1,0 +1,13 @@
+name = "Meet Your Fight"
+filename = "meetyourfight-1.18.2-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D9r5EYDa/versions/1.2.5/meetyourfight-1.18.2-1.2.5.jar"
+hash-format = "sha1"
+hash = "8fd488d237dcbbfff6cb3e7ce2f865fab34c4e99"
+
+[update]
+[update.modrinth]
+mod-id = "D9r5EYDa"
+version = "6U7LG2fM"
