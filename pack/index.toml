@@ -1833,6 +1833,11 @@ hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "15a8e3759f395da24354f9313aca76449c87a4a69b4a720448f5248c5bcad367"
+metafile = true
+
+[[files]]
 file = "mods/beautify-decorate.pw.toml"
 hash = "9e74d89a551431a19978d9d133f88e3d0dd7d41baa0b4862cfb9977cab81d72e"
 metafile = true
@@ -2290,6 +2295,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-structures.pw.toml"
 hash = "185590bcac52b454ad5fa6db3eec011ed088bca9eff21f0da6232f322b1e9eb9"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
 
 [[files]]
