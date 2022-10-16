@@ -1254,7 +1254,7 @@ hash = "f3d1c8420ef27a049690648fbe66f67739a3ef8709bce47406257d8d7de133f2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "d970347b863d14858f39fbd19067ad6d79797a5819a37b86dca69b40667af95d"
+hash = "3861d8d4429b3d6052ca7a8584dd8cc5963e135f10cd8f4591cf5b0dd2a05627"
 
 [[files]]
 file = "config/reliquary-client.toml"
@@ -1683,11 +1683,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "67b68b5c87506bda89a941743cc71f6dbfacf883aae82f2cc87da78e100cdace"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "751162afeae6b2f9b9f6e1c1a948d72bb364b7e655b1f4e6418cd2f006ffad37"
 metafile = true
 
 [[files]]
