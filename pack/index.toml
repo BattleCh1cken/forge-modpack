@@ -1391,6 +1391,11 @@ hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "e341c297c638715de3f5a1cccb53569ba0e6bc6a2e3ace786daae50a5a78f2f3"
+metafile = true
+
+[[files]]
 file = "mods/alexs-cloud-storage.pw.toml"
 hash = "469fc4972ad2f62a3ddbfcc75160032ad43b489ebb397e59cd8e6d5eaaf521d1"
 metafile = true
@@ -1493,6 +1498,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "13fdbfaaa26b246e2f21f6f0d8990cf98a7a1951041f89a65d0f89e67c096c39"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "9410b5d00e295f79e0f74d5f923292372b37f01ee579325021c3ce79dca6ab50"
 metafile = true
 
 [[files]]
