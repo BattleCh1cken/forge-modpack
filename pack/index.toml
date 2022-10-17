@@ -1749,6 +1749,10 @@ file = "config/valhelsia_structures-common.toml"
 hash = "579d4787cb234cdf17bf1074b6932053693ed5e7b55dcd232a13a972265c4984"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "1aea96320a659b186e483d88579dc64e019c3909cb35629e27451819ad718f24"
+
+[[files]]
 file = "config/when-dungeons-arise-common.toml"
 hash = "f352c18ad3a874fdd56cc6582308e1febffe94f03c68626b52a8b7bf40d74999"
 
@@ -2305,6 +2309,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "ff7cdca211297601efe2235c93edbc36595cc9fb5933bc5e7c9faa715ae9157c"
+metafile = true
+
+[[files]]
+file = "mods/woodworks.pw.toml"
+hash = "7c81a19c6f758af05ffac62aa49bb3ef4279b1ee434e31b15474468c0626e168"
 metafile = true
 
 [[files]]
