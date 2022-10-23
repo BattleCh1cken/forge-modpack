@@ -1622,7 +1622,7 @@ hash = "f3d1c8420ef27a049690648fbe66f67739a3ef8709bce47406257d8d7de133f2"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "3861d8d4429b3d6052ca7a8584dd8cc5963e135f10cd8f4591cf5b0dd2a05627"
+hash = "e1f069dfd446eeace5d463bf88ca4256fd5ba3877a00ec665cc3832324613d06"
 
 [[files]]
 file = "config/reliquary-client.toml"
@@ -1772,6 +1772,11 @@ hash = "e341c297c638715de3f5a1cccb53569ba0e6bc6a2e3ace786daae50a5a78f2f3"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
+metafile = true
+
+[[files]]
 file = "mods/alexs-cloud-storage.pw.toml"
 hash = "469fc4972ad2f62a3ddbfcc75160032ad43b489ebb397e59cd8e6d5eaaf521d1"
 metafile = true
@@ -1784,6 +1789,11 @@ metafile = true
 [[files]]
 file = "mods/allurement.pw.toml"
 hash = "2286bbe14330bfce04eacac77cab4c613b98e954ecc20c9d831da7b9636eb6b0"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "520a90112c3e9a9caa0fb1eda8f3745bc866e87114737423717ca265c326b06d"
 metafile = true
 
 [[files]]
@@ -1874,6 +1884,11 @@ metafile = true
 [[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "648369b37953dd16d26a0f1c4eb4496b88fa4c566110c11d91a258f70cff06c4"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "6099858531af980388ccd2944522b8540c8f9d3a4e34da59a486f9aa2243fae3"
 metafile = true
 
 [[files]]
@@ -2172,6 +2187,11 @@ hash = "8ba8c89d32276e29fc443a99b9654064b7d18270ba8b9c46bcbb66ff773da918"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "c5e2031ed7a115a220a5b1489a7cd8b4d2da76d04ae43ee0d5dce1bc1a429576"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "015b1cf6262abdb5d44e2a54d8de6b0a2ef79b8df470365ef72d54f095bd05f9"
 metafile = true
@@ -2197,6 +2217,11 @@ hash = "1df0fc4b4513f6657fe57294d2a91c97b146dd6be897f80db8fdcd3ad370e798"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "b8e36189e8de79f382ee64c19413492e517fd4ca1f4fb9dd8efc09a05b2d16c1"
+metafile = true
+
+[[files]]
 file = "mods/savage-and-ravage.pw.toml"
 hash = "06abeb1c8bebd810d2887f6cd15f128a4a1735d12cfc031e7bb60a8c9da5107b"
 metafile = true
@@ -2209,6 +2234,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "a324d3d1904f018fd24bb1d03c3b00fa7adb0c920c2f798ab7fa49cb0a6cbaad"
 metafile = true
 
 [[files]]
